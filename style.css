@@ -50,7 +50,7 @@ html {
 }
 
 body {
-   font-family: lato;
+   font-family: 'lato';
    font-style: normal;
    font-size: 14px;
    line-height: 17px;
@@ -375,7 +375,7 @@ h1 {
    background: #222224;
 }
 
-.footer__top-card{
+.footer__top-card {
    max-width: 360px;
    padding-top: 103px;
    background: url(/img/svg/truck.svg) no-repeat center top 103px;
@@ -383,8 +383,8 @@ h1 {
 
 
 
-.top__card-pic{
-left: 300px;
+.top__card-pic {
+   left: 300px;
 }
 
 .card__title-delivery {
@@ -396,10 +396,10 @@ left: 300px;
    padding-top: 163px;
 }
 
-.card__text-delivery{
+.card__text-delivery {
    font-weight: 300;
-text-align: center;
-color: #FBFBFB;
+   text-align: center;
+   color: #FBFBFB;
 }
 
 
